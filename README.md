@@ -1,3 +1,3 @@
 # hello-world
-learning github /n
+learning github 
 My name is Yelena, 26 years old
